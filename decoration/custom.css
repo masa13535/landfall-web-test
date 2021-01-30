@@ -124,9 +124,10 @@ header {
 
 .back4 {
     /*background-image: linear-gradient(to right, #f77062 0%, #fe5196 100%);*/
-    background-image: url("../img/dna-3539309_1920.jpg");
-    background-position: center;
+    background:url("../img/dna-3539309_1920.jpg") no-repeat center;
+    background-size: cover;
 }
+
 
 
 /* 画像を背景にする*/
